@@ -61,6 +61,7 @@
 		animation: wrapper 3s forwards;
 		height: 100%;
 		left: 0;
+		display: block!important;
 		opacity: 0;
 		position: fixed;
 		top: 0;
